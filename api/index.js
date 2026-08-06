@@ -25,13 +25,9 @@ export default async function handler(req, res) {
   }
 
   const links = [
-    'https://chat.whatsapp.com/ChtR7AsDkVCGRrUFlbxXoO', // 13
-    'https://chat.whatsapp.com/L2WDLpJGv2j8GTOSnzku8v', // 14
-    'https://chat.whatsapp.com/HS5C7eFGBrGBuVlw58ySU9', // 15
-    'https://chat.whatsapp.com/HS5C7eFGBrGBuVlw58ySU9', // 16
-    'https://chat.whatsapp.com/IqLrahuYm7YINXrDvP9mr8', // 65
-    'https://chat.whatsapp.com/Isqauvcj4vlDVfK9Rha3Wt', // 73
-    'https://chat.whatsapp.com/HKZh7jjQdi67sztn7WbhSx', // 55
+    'https://chat.whatsapp.com/EzMfEcNWbBULnqPOQEKQAd', // 13
+    'https://chat.whatsapp.com/JzIOuq9hTGcEDW27bGcs8B', // 14
+    
   ];
 
   const dest = links[Math.floor(Math.random() * links.length)];
