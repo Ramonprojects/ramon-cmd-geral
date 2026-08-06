@@ -27,6 +27,10 @@ export default async function handler(req, res) {
   const links = [
     'https://chat.whatsapp.com/EzMfEcNWbBULnqPOQEKQAd', // 13
     'https://chat.whatsapp.com/JzIOuq9hTGcEDW27bGcs8B', // 14
+    'https://chat.whatsapp.com/DlGKrhiCTxf9au2YX9j5HC', // 16
+    'https://chat.whatsapp.com/CJwifL7WkUR1utKDbX5xXm', // 55
+    'https://chat.whatsapp.com/LkLSViPHRna61SQUJQgJDE', // 65
+    'https://chat.whatsapp.com/Bsje7n84Sz1BuvIlEmCk6o', // 73
     
   ];
 
